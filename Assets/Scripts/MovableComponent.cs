@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MovebleComponent : MonoBehaviour
+public class MovableComponent : MonoBehaviour
 {
     public GameObject circle;
 
